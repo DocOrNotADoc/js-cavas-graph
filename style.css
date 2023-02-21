@@ -1,0 +1,8 @@
+#graph {
+  display: block;
+  margin: 0 auto;
+  margin-top: 35px;
+  border-radius: .3rem;
+  border: 1px solid #ced4da;
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 18%);
+}
